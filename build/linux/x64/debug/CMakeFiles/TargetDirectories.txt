@@ -1,0 +1,14 @@
+/home/kim/Repos/brainbattery/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/CMakeFiles/brainbattery.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/CMakeFiles/install.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/kim/Repos/brainbattery/build/linux/x64/debug/flutter/CMakeFiles/install.dir
